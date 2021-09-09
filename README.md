@@ -1,6 +1,7 @@
 
 
 # Weather-Dashboard# 06 Server-Side APIs: Weather Dashboard
+![Screenshot (105)](https://user-images.githubusercontent.com/80806004/132609367-ba3cfd66-9a4e-4dfa-a092-d266b1964714.png)
 
 ## Description
 
